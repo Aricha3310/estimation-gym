@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890864151231",
+    "project_id": "estimationgym",
+    "storage_bucket": "estimationgym.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890864151231:android:5848eabad2132c39fa740a",
+        "android_client_info": {
+          "package_name": "com.example.estimation_gym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890864151231-2lcii37ofui1839rs9hnqrjj49cad15b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ZZEwakdvdpo423HD6PZ3MIFeq6c-MtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890864151231-2lcii37ofui1839rs9hnqrjj49cad15b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
